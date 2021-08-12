@@ -1,0 +1,7 @@
+matplotlib
+seaborn
+plotly
+scikit-learn
+xgboost
+lightgbm
+nbformat
