@@ -7,7 +7,7 @@
   <h1 align="center">House-Prices-EDA</h3>
 
   <p align="center">
-    An introduction to Exploratory Data Analysis and Data Preprocessing for Tabular Data
+    An introduction to Exploratory Data Analysis and Data Preprocessing for Non Time-Series Tabular Data
   </p>
 </p>
 
